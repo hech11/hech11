@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pixelate](https://github.com/hech11/Pixelate)
 
-- 🌱 I’m currently learning **Game engine architecture, rendering, audio, esc, physics, editors**
+- 🌱 My interests: **Game engine architecture, rendering, audio, esc, physics, editors**
 
 - 📫 Email: **nkp1workbiz@gmail.com**
 
