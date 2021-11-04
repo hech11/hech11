@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game engine architecture, rendering, audio, esc, physics, editors**
 
-- 📫 How to reach me **nkp1workbiz@gmail.com**
+- 📫 Email: **nkp1workbiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
