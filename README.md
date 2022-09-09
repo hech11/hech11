@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil!</h1>
 <h3 align="center">A uni student interested in game engine technologies</h3>
 
-- 🔭 I’m currently working on [Pixelate](https://github.com/hech11/Pixelate)
+- 🔭 I’m currently working on [Pixelate](https://github.com/hech11/Pixelate), [Rose](https://github.com/hech11/Rose), [Plugnet](https://github.com/hech11/Plugnet)
 
 - 🌱 My interests: **Game engine architecture, rendering, audio, esc, physics, editors**
 
